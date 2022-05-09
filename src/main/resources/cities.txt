@@ -1,0 +1,100 @@
+Tokyo,Japan,37274000
+Delhi,India,32065760
+Shanghai,China,28516904
+Dhaka,Bangladesh,22478116
+Sao Paulo,Brazil,22429800
+Mexico City,Mexico,22085140
+Cairo,Egypt,21750020
+Beijing,China,21333332
+Mumbai,India,20961472
+Osaka,Japan,19059856
+Chongqing,China,16874740
+Karachi,Pakistan,16839950
+Istanbul,Turkey,15636243
+Kinshasa, DR Congo,15628085
+Lagos,Nigeria,15387639
+Buenos Aires,Argentina,15369919
+Kolkata,India,15133888
+Manila,Philippines,14406059
+Tianjin,China,14011828
+Guangzhou,China,13964637
+Rio de Janeiro,Brazil,13634274
+Lahore,Pakistan,13541764
+Bangalore,India,13193035
+Shenzhen,China,12831330
+Moscow,Russia,12640818
+Chennai,India,11503293
+Bogota,Colombia,11344312
+Paris,France,11142303
+Jakarta,Indonesia,11074811
+Lima,Peru,11044607
+Bangkok,Thailand,10899698
+Hyderabad,India,10534418
+Seoul,South Korea,9975709
+Nagoya,Japan,9571596
+London,United Kingdom,9540576
+Chengdu,China,9478521
+Nanjing,China,9429381
+Tehran,Iran,9381546
+Ho Chi Minh City,Vietnam,9077158
+Luanda,Angola,8952496
+Wuhan,China,8591611
+Xi-an Shaanxi,China,8537646
+Ahmedabad,India,8450228
+Kuala Lumpur,Malaysia,8419566
+New York City,United States,8177025
+Hangzhou,China,8044878
+Surat,India,7784276
+Suzhou,China,7764499
+Hong Kong,Hong Kong,7643256
+Riyadh,Saudi Arabia,7538200
+Shenyang,China,7527975
+Baghdad,Iraq,7511920
+Dongguan,China,7511851
+Foshan,China,7497263
+Dar es Salaam,Tanzania,7404689
+Pune,India,6987077
+Santiago,Chile,6856939
+Madrid,Spain,6713557
+Haerbin,China,6665951
+Toronto,Canada,6312974
+Belo Horizonte,Brazil,6194292
+Khartoum,Sudan,6160327
+Johannesburg,South Africa,6065354
+Singapore,Singapore,6039577
+Dalian,China,5930140
+Qingdao,China,5865232
+Zhengzhou,China,5690312
+Ji-nan Shandong,China,5663015
+Barcelona,Spain,5658472
+Saint Petersburg,Russia,5535556
+Abidjan,Ivory Coast,5515790
+Yangon,Myanmar,5514454
+Fukuoka,Japan,5502591
+Alexandria,Egypt,5483605
+Guadalajara,Mexico,5339583
+Ankara,Turkey,5309690
+Chittagong,Bangladesh,5252842
+Addis Ababa,Ethiopia,5227794
+Melbourne,Australia,5150766
+Nairobi,Kenya,5118844
+Hanoi,Vietnam,5067352
+Sydney,Australia,5056571
+Monterrey,Mexico,5036535
+Changsha,China,4809887
+Brasilia,Brazil,4803877
+Cape Town,South Africa,4800954
+Jidda h,Saudi Arabia,4780740
+Urumqi,China,4710203
+Kunming,China,4657381
+Changchun,China,4616002
+He-fei,China,4496456
+Shantou,China,4490411
+Xinbei,Taiwan,4470672
+Kabul,Afghanistan,4457882
+Ningbo,China,4405292
+Tel Aviv,Israel,4343584
+Yaounde,Cameroon,4336670
+Rome,Italy,4297877
+Shijiazhuang,China,4285135
+Montreal,Canada,4276526
